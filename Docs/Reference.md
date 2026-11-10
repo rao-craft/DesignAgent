@@ -14,7 +14,7 @@ let designRecord: GraniteRoster.Record = { GraniteRoster.record(DesignAgent.self
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/DesignAgent.git`, then say `$design` in a request:
+`craft agents add https://github.com/rao-craft/DesignAgent.git`, then say `$design` in a request:
 
 ```
 $design the recipe app's look: a cream page, ink text, basil for the accent and tomato for danger,

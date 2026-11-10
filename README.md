@@ -48,7 +48,7 @@ line or a colour role can read those sets by name. `screenshots` then captures t
 ## Get it
 
 In Craft, install Design from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/DesignAgent.git`, then say `$design` in a request.
+`craft agents add https://github.com/rao-craft/DesignAgent.git`, then say `$design` in a request.
 
 ## Requirements
 
